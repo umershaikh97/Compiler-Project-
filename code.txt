@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std ;
+primary ( )
+{
+
+num _a_ ; 
+symbol _a_ ;
+publish << _a_ ;
+
+
+repay 0 ;
+
+
+}

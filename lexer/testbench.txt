@@ -1,0 +1,9 @@
+int main()
+{
+Print<<"hello world!";
+DoFor(integer a=5;a<5;a++)
+{
+a=3;
+}
+Back 0;
+}

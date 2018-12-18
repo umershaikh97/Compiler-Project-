@@ -1,0 +1,36 @@
+﻿Build started 4/4/2018 1:14:29 PM.
+     1>Project "C:\Users\Dell\Desktop\Project\parser\parser\parser.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\parser.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\parser.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt parser.cpp
+         parser.cpp
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(2): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(3): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(4): warning C4627: '#include <sstream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(5): warning C4627: '#include <vector>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(6): warning C4627: '#include <cstdlib>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(7): warning C4627: '#include <cstdio>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(8): warning C4627: '#include <algorithm>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(9): warning C4627: '#include <functional>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(12): warning C4627: '#include "parser.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(13): warning C4627: '#include "grammer.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>c:\users\dell\desktop\project\parser\parser\parser.cpp(88): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+     1>Done Building Project "C:\Users\Dell\Desktop\Project\parser\parser\parser.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31
